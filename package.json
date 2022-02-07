@@ -38,13 +38,13 @@
   ],
   "author": "nullx <mail@nullx.me>",
   "license": "MIT",
-  "homepage": "https://github.com/nullx/ps-list",
+  "homepage": "https://github.com/nullxx/ps-list",
   "repository": {
     "type": "git",
-    "url": "git@github.com:nullx/ps-list.git"
+    "url": "git@github.com:nullxx/ps-list.git"
   },
   "bugs": {
-    "url": "https://github.com/nullx/ps-list/issues"
+    "url": "https://github.com/nullxx/ps-list/issues"
   },
   "devDependencies": {
     "@commitlint/cli": "^13.1.0",
