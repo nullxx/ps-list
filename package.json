@@ -28,17 +28,13 @@
     "dist"
   ],
   "keywords": [
-    "example",
-    "typescript",
-    "npm",
-    "package",
-    "sample",
-    "boilerplate",
-    "starter",
-    "demo",
-    "cjs",
-    "esm",
-    "umd"
+    "node",
+    "process",
+    "list",
+    "ps",
+    "processes",
+    "process-list",
+    "process-listing"
   ],
   "author": "nullx <mail@nullx.me>",
   "license": "MIT",

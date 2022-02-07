@@ -7,7 +7,7 @@ module.exports = {
   output: {
     path: path.resolve(__dirname, '../dist/umd'),
     filename: 'index.js',
-    library: 'exampleTypescriptPackage',
+    library: '@nullx/ps-list',
     libraryTarget: 'umd',
     globalObject: 'this',
   },
