@@ -12,7 +12,7 @@ npm install --save-dev @nullx/ps-list
 ## Usage
 
 ```ts
-import { getProcessList } from '@nullx/ps-list';
+import { getProcessList, MacOSProcess, WindowsProcess, LinuxProcess } from '@nullx/ps-list';
 
 getProcessList().then((processes) => {
   // getting the first process
